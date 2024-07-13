@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.0.5",
     "@angular/platform-browser-dynamic": "~9.0.5",
     "@angular/router": "~9.0.5",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "font-awesome": "^4.7.0",
     "oidc-client": "^1.10.1",
     "rxjs": "~6.5.4",
